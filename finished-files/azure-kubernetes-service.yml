@@ -29,7 +29,7 @@ on:
 
 env:
   # Checks out the repository this file is in
-  AZURE_CONTAINER_REGISTRY: 'name of your Azure Container Registry'
+  AZURE_CONTAINER_REGISTRY: 'acseshop415567498'
   CONTAINER_NAME: 'productservice'
   RESOURCE_GROUP: 'rg-eshop'
   CLUSTER_NAME: 'aks-eshop'
